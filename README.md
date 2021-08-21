@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tarun Sharma</h1>
-<h3 align="center">A software development professional from India with a passion for mobile development. Mainly skilled in Java, Kotlin and Dart
+<h3 align="center">A software development professional from 🇮🇳 India with a passion for mobile development. Mainly skilled in Java, Kotlin and Dart
 </h3>
 
 - 🇦🇪 &nbsp; Currently, I’m working in Dubai
