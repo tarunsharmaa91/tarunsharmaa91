@@ -3,7 +3,7 @@
 <h3 align="center">A software development professional from 🇮🇳 India with a passion for mobile development. Mainly skilled in Java, Kotlin and Dart
 </h3>
 
-- 🇩🇪�&nbsp; Currently, I’m working in Germany
+- 🇩🇪 &nbsp; Currently, I’m working in Germany
 - 🎨 &nbsp; I’m learning Design with Figma
 - 💬 &nbsp; Ask me about <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="25" height="25">, I'll listen and help 🤗
 - 🤩 &nbsp; I'm inspired by the Android community and events
